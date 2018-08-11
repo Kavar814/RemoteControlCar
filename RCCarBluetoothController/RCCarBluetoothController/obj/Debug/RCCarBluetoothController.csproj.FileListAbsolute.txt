@@ -1,0 +1,6 @@
+c:\users\kavin\documents\visual studio 2017\Projects\RCCarBluetoothController\RCCarBluetoothController\bin\Debug\RCCarBluetoothController.exe.config
+c:\users\kavin\documents\visual studio 2017\Projects\RCCarBluetoothController\RCCarBluetoothController\bin\Debug\RCCarBluetoothController.exe
+c:\users\kavin\documents\visual studio 2017\Projects\RCCarBluetoothController\RCCarBluetoothController\bin\Debug\RCCarBluetoothController.pdb
+c:\users\kavin\documents\visual studio 2017\Projects\RCCarBluetoothController\RCCarBluetoothController\obj\Debug\RCCarBluetoothController.csprojResolveAssemblyReference.cache
+c:\users\kavin\documents\visual studio 2017\Projects\RCCarBluetoothController\RCCarBluetoothController\obj\Debug\RCCarBluetoothController.exe
+c:\users\kavin\documents\visual studio 2017\Projects\RCCarBluetoothController\RCCarBluetoothController\obj\Debug\RCCarBluetoothController.pdb
